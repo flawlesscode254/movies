@@ -1,0 +1,16 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+.li {
+    width: 400px;
+}
+
+.title {
+    color: white;
+}
